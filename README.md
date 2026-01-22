@@ -6,7 +6,7 @@ It’s a full-stack To-Do list application designed primarily to demonstrate a c
 
  Frontend: HTML/CSS/JS (index.html) -  Served from a public folder, with index.html as the main entry point.
  
- Backend: Node.js (Express.js framework)
+ Backend: Node.js (Express.js framework) - Express.js is a web framework built on top of Node.js.
 
  Database: SQLite (local .db file named todo.db)
 
