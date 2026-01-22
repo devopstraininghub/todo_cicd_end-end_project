@@ -27,7 +27,7 @@ It uses standard SQL syntax like other relational databases
 
  Containerize the application.
  
- Set up CI/CD pipeline using Jenkins.
+ Set up CI/CD pipeline using Jenkins / GitHub actions.
  
  Push Docker image to Docker Hub.
  
