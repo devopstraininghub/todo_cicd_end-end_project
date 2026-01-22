@@ -10,6 +10,19 @@ It’s a full-stack To-Do list application designed primarily to demonstrate a c
 
  Database: SQLite (local .db file named todo.db)
 
+
+# What is SQLite?
+
+SQLite is a lightweight, file-based database.
+
+It stores all data in one single file (e.g., todo.db)
+
+There is no server process — your app reads/writes directly to the file
+
+It is portable, extremely fast for small–medium workloads, and very easy to set up
+
+It uses standard SQL syntax like other relational databases
+
  # Goal of project
 
  Containerize the application.
